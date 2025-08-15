@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Tharusha Sangeeth
 
-💻 **Passionate Software Engineering Student | Tech Explorer | Lifelong Learner**  
+💻 **Software Engineering Student | AI & Machine Learning Engineer **  
 I love turning ideas into reality with code, exploring new technologies, and collaborating on projects that make an impact.
 
 ---
