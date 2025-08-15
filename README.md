@@ -4,7 +4,8 @@
 I love turning ideas into reality with code, exploring new technologies, and collaborating on projects that make an impact.
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FF00&width=435&lines=Full-Stack+Developer;Machine Learning + Engineer;Tech+Explorer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FF00&width=435&lines=Full-Stack+Developer;Machine+Learning+Engineer;Tech+Explorer)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="https://github.com/Tharusha2002-s/Tharusha2002-s/blob/main/assets/coding.gif?raw=true" width="300" alt="Coding Animation">
