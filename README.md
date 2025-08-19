@@ -39,12 +39,12 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharusha-hettiarachchi-5b44782aa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.tharusha2002-s.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Tharusha2002-s)
 ---
 
 ### 🛠️ Languages and Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,html,css,react,nodejs,express,mongodb,mysql,php,bootstrap,tailwind,git,github,linux,figma,androidstudio,vscode,ps,pr" />
+<img src="https://skillicons.dev/icons?i=java,c,py,js,html,css,react,nodejs,express,mysql,bootstrap,git,github,linux,vscode,ps" />
 </p>
 
 ---
