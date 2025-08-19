@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Tharusha Sangeeth</h1>
 <h3 align="center">Software Engineering Student | Turning Ideas Into Real-World Solutions.🚀</h3>
----
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **Java Script | Python | Machine Learning**
