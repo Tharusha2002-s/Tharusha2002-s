@@ -19,12 +19,14 @@
 <div align="center">
 
 <a href="https://github.com/Tharusha2002-s">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunapb&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharusha2002-s&show_icons=true&theme=radical" alt="GitHub stats" />
 </a>
 
 <a href="https://github.com/Tharusha2002-s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunapb&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha2002-s&layout=compact&theme=radical" alt="Top languages" />
 </a>
+
+</div>
 
 </div>
 
