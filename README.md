@@ -33,7 +33,7 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharusha-hettiarachchi-5b44782aa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](file:///E:/Portfolio2/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tharusha2002-s.github.io/about-me/)
 ---
 
 ### 🛠️ Languages and Tools
@@ -41,13 +41,5 @@
 <img src="https://skillicons.dev/icons?i=java,c,py,js,html,css,react,nodejs,express,mysql,bootstrap,git,github,linux,vscode,ps" />
 </p>
 
----
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharusha2002-stheme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-⭐️ From [Tharusha Sangeeth](https://github.com/arunapb)
+⭐️ From [Tharusha Sangeeth](https://github.com/Tharusha2002-s)
